@@ -1,0 +1,2 @@
+redis-py==5.0.1
+asyncio-mqtt==0.16.1
